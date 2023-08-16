@@ -1,13 +1,13 @@
 <h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src=""width="420"> </kbd><br><br>
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
+<p align="center"><a href="" target="_blank">telegram group</a>
 
 
 <h2 align="center"> created by; </h1> 
-<p align="center"><a href="https://github.com/Ayhuuu" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
+<p align="center"><a href="" target="_blank">ayhu</a></p><p align="center"><a href="" target="_blank">artonus</a></p>
 
 
 
@@ -43,14 +43,14 @@
 
 - open `builder.bat`
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
+<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/tiAF6q1.png"></img></div>
 
                                                        🖼️ Pictures
  
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://i.imgur.com/xmxIWfY.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/6fSf76T.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/nqSQgqS.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src=""></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
     
 </div>
  
